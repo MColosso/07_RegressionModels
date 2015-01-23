@@ -1192,4 +1192,4 @@ Figure 4 shows the residual plots of the selected model, which we can observe th
 
 ### Aditional information
 
-See [GitHub repository]() for source file of this report and the worksheet used to build linear models combinations.
+See [GitHub repository](https://github.com/MColosso/07_RegressionModels) for source file of this report and the worksheet used to build linear models combinations.
